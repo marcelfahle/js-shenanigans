@@ -1,0 +1,2 @@
+{"/Users/mf/code/lab/js/src/sum.js": {"path":"/Users/mf/code/lab/js/src/sum.js","statementMap":{"0":{"start":{"line":7,"column":2},"end":{"line":7,"column":14}}},"fnMap":{"0":{"name":"sum","decl":{"start":{"line":3,"column":9},"end":{"line":3,"column":12}},"loc":{"start":{"line":6,"column":2},"end":{"line":8,"column":1}}}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"332fd63041d2c1bcb487cc26dd0d5f7d97098a6c","hash":"f8509407dd9244dbba6914bd2d2962b70724eb63"}
+}

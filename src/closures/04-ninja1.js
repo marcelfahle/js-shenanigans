@@ -6,3 +6,4 @@ export const ninjaFunction = () => {
   }
   later = innerFunction;
 }
+

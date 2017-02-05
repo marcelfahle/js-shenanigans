@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "test": "jest --coverage",
-    "watch:test": "jest --watch"
+    "watch:test": "jest --watch",
+    "arkanoid": "webpack-dev-server --config src/games/arkanoid/webpack.config.js"
   },
   "devDependencies": {
     "babel-core": "^6.22.1",
